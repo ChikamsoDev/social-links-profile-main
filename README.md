@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 ### Links
-- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-with-tailwind-css-abc123
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-social-links-page-built-using-html5-and-tailwind-css-bRP6KvGGGN
 - Live Site URL: https://chikamsodev.github.io/social-links-profile-main/
 
 
